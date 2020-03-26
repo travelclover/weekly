@@ -6,7 +6,7 @@
 
 周刊讨论区的帖子[《谁在招人？》](https://github.com/ruanyf/weekly/issues/1106)，提供大量就业信息，欢迎访问或发布工作/实习岗位。
 
-![](https://www.wangbase.com/blogimg/asset/202002/bg2020020707.jpg)
+![](https://github.com/travelclover/img/blob/master/2020/03/doorOpen.gif)
 
 封面图：美国华盛顿州的自行车树。1950年代有一个男孩把自行车忘记在树林中，40年后这辆自行车长进了树里。（[出处](https://www.thevintagenews.com/2016/08/29/the-real-story-behind-a-boy-left-his-bike-chained-to-a-tree-when-he-went-away-to-war-in-1914/)）
 
